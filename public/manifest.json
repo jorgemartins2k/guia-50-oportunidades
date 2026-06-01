@@ -1,0 +1,22 @@
+{
+  "name": "Guia das 50 Oportunidades",
+  "short_name": "Guia 50 Oportunidades",
+  "description": "O Mapa dos Cursos que as Empresas Querem Mas Ninguém Te Mostra",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B140B",
+  "theme_color": "#1a2e1a",
+  "icons": [
+    {
+      "src": "/assets/images/favicon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
