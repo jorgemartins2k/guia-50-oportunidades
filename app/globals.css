@@ -2,9 +2,9 @@
 @import "tailwindcss";
 
 :root {
-  --background: #0B140B;
+  --background: #0b140b;
   --foreground: #f5f0e8;
-  --dark-green: #0B140B;
+  --dark-green: #0b140b;
   --cream: #f4edd4;
   --gold: #dfb238;
   --cta-green: #2ceb64;
@@ -99,6 +99,4 @@ h4,
   animation: fadeIn 0.8s ease-out forwards;
 }
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* Removido diretivas redundantes do v3 */
