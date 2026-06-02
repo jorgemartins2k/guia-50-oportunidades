@@ -55,7 +55,7 @@ export default function HomePage() {
                 href="https://pay.kiwify.com.br/LarNUKO"
                 className="btn-primary w-full flex items-center justify-center gap-2"
               >
-                👉 Quero acesso agora por R$29,90
+                👉 Quero acesso agora por R$15,99
               </a>
             </div>
           </div>
@@ -298,7 +298,7 @@ export default function HomePage() {
           <div className="text-center">
             <p className="text-2xl line-through opacity-40 mb-2">De R$ 97,00</p>
             <p className="text-5xl font-bold text-gold mb-8 italic serif">
-              Por R$ 29,90
+              Por R$ 15,99
             </p>
             <a href="https://pay.kiwify.com.br/LarNUKO" className="btn-primary">
               Aproveitar Oferta Limitada
@@ -459,7 +459,7 @@ export default function HomePage() {
           <div className="mb-10">
             <p className="text-2xl line-through opacity-40">De R$ 97,00</p>
             <p className="text-6xl md:text-7xl font-bold text-dark-green serif italic">
-              R$ 29,90
+              R$ 15,99
             </p>
             <p className="text-sm opacity-60 mt-4 uppercase tracking-widest font-bold">
               Pagamento único · Acesso Vitalício

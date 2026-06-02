@@ -152,10 +152,10 @@ export default function ScrollPopup() {
             </p>
             <p className="text-2xl font-bold text-white font-serif">
               Tudo isso por{" "}
-              <span className="text-[#2ceb64]">R$29,90</span>
+              <span className="text-[#2ceb64]">R$15,99</span>
             </p>
             <p className="text-[11px] text-white/35 mt-1">
-              Menos de R$0,50 por dia no seu primeiro mês de transformação
+              Menos de R$0,54 por dia no seu primeiro mês de transformação
             </p>
           </div>
 
@@ -164,7 +164,7 @@ export default function ScrollPopup() {
             <span className="w-2 h-2 rounded-full bg-red-500 shadow-[0_0_8px_rgba(239,68,68,0.6)] flex-shrink-0 animate-pulse"></span>
             <p className="text-xs text-white/70">
               <span className="text-red-400 font-bold">Oferta exclusiva desta página.</span>{" "}
-              Os 3 itens juntos por R$29,90 — você não encontra esse kit completo em outro lugar.
+              Os 3 itens juntos por R$15,99 — você não encontra esse kit completo em outro lugar.
             </p>
           </div>
 
