@@ -17,13 +17,10 @@ export default function StickyCTA() {
 
   return (
     <div className="fixed top-0 left-0 right-0 z-50 bg-dark-green/95 backdrop-blur-sm border-b border-white/10 animate-fade-in">
-      <div className="max-w-4xl mx-auto flex items-center justify-between px-4 h-[50px]">
-        <span className="text-cream text-xs sm:text-sm font-medium truncate mr-3">
-          Quero o Guia — R$15,99
-        </span>
+      <div className="max-w-4xl mx-auto flex items-center justify-center px-4 h-[50px]">
         <a
           href="https://pay.kiwify.com.br/LarNUKO"
-          className="btn-primary text-xs py-1.5 px-4 rounded-lg flex-shrink-0"
+          className="btn-primary text-xs py-1.5 px-4 rounded-lg"
         >
           Quero o Guia — R$15,99
         </a>
